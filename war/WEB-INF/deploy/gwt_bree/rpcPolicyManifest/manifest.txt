@@ -1,0 +1,3 @@
+# Module gwt_bree
+# RPC service class, partial path of RPC policy file
+com.geekvigarista.gwt.bree.client.GreetingService, 16EC4B1FBD0AE6481CC57329AE56B625.gwt.rpc

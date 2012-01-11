@@ -1,0 +1,2 @@
+serviceClass: com.geekvigarista.gwt.bree.client.GreetingService
+path: 16EC4B1FBD0AE6481CC57329AE56B625.gwt.rpc
