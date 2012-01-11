@@ -4,10 +4,10 @@
 *.jar
 *.war
 
-war/gwt_bree/*
+war/gwt_bree
 
-gwt-unitCache/*
+gwt-unitCache
 
-.apt_generated/*
+.apt_generated
 
 
